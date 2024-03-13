@@ -1,0 +1,16 @@
+console.group("Group 1");
+console.log("message1");
+console.log("message2");
+console.group("Child Group");
+console.log("message1");
+console.log("message2");
+console.group("Grand Child Group");
+console.log("message1");
+console.log("message2");
+console.groupEnd();
+console.groupEnd();
+console.groupEnd();
+console.group("Group 2");
+console.log("message1");
+console.log("message2");
+console.groupEnd();
