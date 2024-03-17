@@ -1,6 +1,4 @@
-let Title = "Elzero";
-let Description = "Elzero Web School";
-let Date = "25/10";
+let Title = "Elzero", Description = "Elzero Web School",Date = "25/10";
 let Card = `
 <div class="card">
 <h3>Hello ${Title}</h3>
